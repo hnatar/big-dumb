@@ -1,0 +1,14 @@
+[Event "Computer Chess Game"]
+[Site "PC"]
+[Date "2014.10.20"]
+[Round "-"]
+[White "Furlox"]
+[Black "Saphira"]
+[Result "0-1"]
+[TimeControl "40/60"]
+
+1. Nc3 h5 2. Ne4 h4 3. Ng3 hxg3 4. b3 Rxh2 5. Nf3 Rxh1 6. d3 Rxf1+ 7. Kxf1
+gxf2 8. Kxf2 g5 9. Nxg5 f5 10. Bf4 e5 11. Bxe5 Qxg5 12. e3 Qxe3+ 13. Kxe3
+f4+ 14. Kxf4 d5 15. Ke3 d4+ 16. Kxd4 c5+ 17. Kd5 c4 18. dxc4 b5 19. cxb5 a5
+{Black wins on time} 0-1
+

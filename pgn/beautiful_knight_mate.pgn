@@ -1,0 +1,13 @@
+[Event "Computer Chess Game"]
+[Site "PC"]
+[Date "2014.10.25"]
+[Round "-"]
+[White "Furlox"]
+[Black "bigdumb"]
+[Result "*"]
+[TimeControl "40/1800"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. b3 d5 5. d3 dxe4 6. Nxe4 Be6 7. Nxf6+
+Qxf6 8. Bg5 Bb4+ 9. c3 Bxc3+ 10. Ke2 Qf5 11. Nh4 Qxg5 12. g3 Nd4#
+*
+
