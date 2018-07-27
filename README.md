@@ -16,21 +16,21 @@ You can kind of see it advance in skill here. The
 original PGNs (and a few more) are in the repo.
 
 1. Early stages (Yay move generation working!)
-![early](webm/early_stages.webm)
+![early](gifs/es.gif)
 
 2. I think this was before the Q-values for pieces
 on particular squares was added. It just does dallies
 until challenged.
-![rook](webm/rook_stuck.webm)
+![rook](gifs/rs.gif)
 
 3. This next game is from four days later, it think
 I fixed some bugs with the Alpha Beta search and added
 piece square tables.
-![4days](webm/four_days_later.webm)
+![4days](gifs/fdl.gif)
 
 4. It managed to find a checkmate because I wasn't paying
 attention!
-![mate](webm/unseen_mate.webm)
+![mate](gifs/um.gif)
 
 ### How to Play
 
